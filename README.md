@@ -41,6 +41,7 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 ## PROGRAM:
+
 ```
 import random
 import time
@@ -225,6 +226,7 @@ environment.run(steps=10)
 print(environment.status)
 print(agent.performance)
 ```
+
 ## OUTPUT:
 ![308101221-0d567d50-84f6-41d4-9dfe-ac72c9b33122](https://github.com/user-attachments/assets/4b66eab7-46ce-4088-b4df-e4281c48ed53)
 
